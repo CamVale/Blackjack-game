@@ -40,13 +40,13 @@ Welcome to my **Blackjack Game** project! This project provides both a Command-L
 #### Command-Line Version
 To play the CLI version:
 ```bash
-python src.blackjack_game
+python -m src.blackjack_game
 ```
 
 #### Graphical Version (Pygame)
 To play the GUI version:
 ```bash
-python src.pygame_version.blackjack_pygame
+python -m src.pygame_version.blackjack_pygame
 ```
 
 ### Running Tests
