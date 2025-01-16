@@ -26,7 +26,7 @@ Welcome to my **Blackjack Game** project! This project provides both a Command-L
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CamVale/Blackjack_Game.git
+   git clone https://github.com/CamVale/Blackjack-Game.git
    cd blackjack-game
    ```
 
